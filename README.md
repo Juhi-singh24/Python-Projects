@@ -1,6 +1,8 @@
 # Python-Projects
-This repository contains the project build on python concept
+This repository contains the project build on python concept.
+
 This project is about the **Login System** 
+
 In this project:-
 * I am first create a variable **Username** and **Password** in  which i store the original values.
 * Then when user vsit again on this site he/she have to fill credential again.
